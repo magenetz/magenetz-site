@@ -3,25 +3,25 @@
 
   <!-- דף הבית -->
   <url>
-    <loc>https://magenetz.github.io/</loc>
+    <loc>https://magenetz.github.io/magenetz-site/</loc>
     <priority>1.0</priority>
   </url>
 
   <!-- מי אנחנו -->
   <url>
-    <loc>https://magenetz.github.io/?page=about</loc>
+    <loc>https://magenetz.github.io/magenetz-site/#about</loc>
     <priority>0.8</priority>
   </url>
 
   <!-- גלריה -->
   <url>
-    <loc>https://magenetz.github.io/?page=gallery</loc>
+    <loc>https://magenetz.github.io/magenetz-site/#gallery</loc>
     <priority>0.8</priority>
   </url>
 
   <!-- סרטון הדגמה -->
   <url>
-    <loc>https://magenetz.github.io/?page=video</loc>
+    <loc>https://magenetz.github.io/magenetz-site/#video</loc>
     <priority>0.8</priority>
   </url>
 
