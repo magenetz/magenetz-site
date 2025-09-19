@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
-  
+
   <!-- דף הבית -->
   <url>
     <loc>https://magenetz.github.io/</loc>
@@ -9,19 +9,19 @@
 
   <!-- מי אנחנו -->
   <url>
-    <loc>https://magenetz.github.io/#about</loc>
+    <loc>https://magenetz.github.io/?page=about</loc>
     <priority>0.8</priority>
   </url>
 
   <!-- גלריה -->
   <url>
-    <loc>https://magenetz.github.io/#gallery</loc>
+    <loc>https://magenetz.github.io/?page=gallery</loc>
     <priority>0.8</priority>
   </url>
 
   <!-- סרטון הדגמה -->
   <url>
-    <loc>https://magenetz.github.io/#video</loc>
+    <loc>https://magenetz.github.io/?page=video</loc>
     <priority>0.8</priority>
   </url>
 
